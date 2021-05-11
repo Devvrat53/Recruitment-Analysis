@@ -1,2 +1,2 @@
 # Recruitment-Analysis
-Sentimental Analysis using Scrapped data from Twitter
+Analysis using Scrapped data from Twitter
